@@ -8,31 +8,31 @@
     margin-top: 12px;
 }
 .box1{
-    border: 6px solid red;
-    background-color: aqua;
-    color: black;
+    border: 6px solid rgb(13, 148, 182);
+    background-color: rgb(26, 7, 97);
+    color: rgb(228, 36, 36);
     border-radius: 20px;
     padding: 15px;
     margin-top: 20px;
 }
 #nav{
-    border: 6px solid red;
+    border: 6px solid rgb(16, 3, 78);
     border-radius: 20px;
     background-color: aqua;
     width: 600px;
     height:50px;
-    word-spacing: 60px;
+    word-spacing: 90px;
     padding-top: 3px;
-    padding-left: 35px;
+    padding-left: 25px;
     padding-bottom: 5px;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 #offers{
     
-        border: 10px solid rgb(238, 19, 30);
+        border: 10px solid rgb(6, 128, 16);
         border-radius: 600px;
-        background-color: aqua;
-        color: black;
+        background-color: rgb(189, 218, 26);
+        color: rgb(228, 19, 19);
         height: 300px;
         width: 400px;
         padding-top: 100px;
@@ -45,38 +45,45 @@
 }
 #form{
     border: 6px solid red;
-    background-color: aqua;
+    background-color: rgb(250, 255, 245);
     border-style: dashed;
     margin-top: 12px;
     padding-bottom: 12px;
     padding-left: 12px;
     padding-right: 12px;
+    
 }
 .labels{
     color: rgb(245, 9, 21);
 }
 #menu1{
-    border: 6px solid red;
+    border: 6px solid rgb(89, 0, 255);
     border-radius: 300px;
     width: 250px;
     height: 40px;
     padding-top: 19px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     margin-top: 50px;
-    background-color: rgb(14, 2, 17);
-    color: white;
+    background-color: rgb(28, 190, 101);
+    color: rgb(2, 2, 14);
     letter-spacing: 3px;
     font-size: xx-large;
-    font-style: italic;
+    font-style: bold;
+    font-weight: 900;
 }
 .dishes{
-    border: 6px solid black;
-    background-color: aqua;
+    border: 6px solid rgb(238, 237, 240);
+    background-color: rgb(0, 247, 255);
     color: blue;
     border-radius: 32px;
     width: 450px;
     height: 245px;
+    font-style: bold;
+    font-weight: 900;
 }
 body{
     background-image: url(4k.jpg);
+    border: 7px solid rgb(211, 214, 35);
+    border-style: groove;
+    margin: 0px;
 }
