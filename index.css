@@ -7,25 +7,31 @@
     text-align: center;
     margin-top: 12px;
 }
-.box1{
+.box1 {
     border: 6px solid rgb(13, 148, 182);
     background-color: rgb(26, 7, 97);
     color: rgb(228, 36, 36);
     border-radius: 20px;
-    padding: 15px;
+    padding: 5px;
     margin-top: 20px;
+    margin-left: 100px;
+    position: absolute;
+    left: 10px;
 }
 #nav{
     border: 6px solid rgb(16, 3, 78);
     border-radius: 20px;
     background-color: aqua;
-    width: 600px;
-    height:50px;
-    word-spacing: 90px;
-    padding-top: 3px;
-    padding-left: 25px;
-    padding-bottom: 5px;
-    margin-top: 20px;
+    width: 478px;
+    height: 36px;
+    word-spacing: 37px;
+    padding-top: 0px;
+    padding-left: 5px;
+    padding-bottom: 19px;
+    margin-top: 21px;
+    top: 41px;
+    left: 361px;
+    position: absolute;
 }
 #offers{
     
@@ -76,7 +82,7 @@
     background-color: rgb(0, 247, 255);
     color: blue;
     border-radius: 32px;
-    width: 450px;
+    width: 350px;
     height: 245px;
     font-style: bold;
     font-weight: 900;
@@ -87,4 +93,14 @@ body{
     border-style: groove;
     margin: 0px;
     
+}
+.box11 {
+    border: 6px solid rgb(13, 148, 182);
+    background-color: rgb(26, 7, 97);
+    color: rgb(228, 36, 36);
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 20px;
+    right: 10px;
+    margin-left: 900px;
 }
